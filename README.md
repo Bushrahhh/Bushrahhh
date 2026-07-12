@@ -1,8 +1,8 @@
-🚀 **Bushrah Zulfiqar** | AI Engineer | Research Fellow | Founder | Hackathon Junkie
+ **Bushrah Zulfiqar** | AI Engineer | Research Fellow | Founder | Hackathon Junkie
 
 Computational AI researcher obsessed with **astrophysics**, **ML infrastructure**, and **building ecosystems**. Junior at GIKI (Ghulam Ishaq Khan Institute), Pakistan.
 
-## 🎯 What I Do
+##  What I Do
 
 **Research & AI**
 - Research Fellow @ ElutherAI — LLMs & efficient inference at scale
@@ -16,7 +16,7 @@ Computational AI researcher obsessed with **astrophysics**, **ML infrastructure*
 **Founding & Leadership**
 - Co-founder **Event Saga** (Founder Institute Silicon Valley FI '26)
 -  **Hack@GIKI** — Pakistan's first international hackathon hub
-- Founder **Akhuwat Mentor** @ Akhuwat College, Kasur — FAST/NUST/GIKI test prep
+-  **Akhuwat Mentor** @ Akhuwat College, Kasur 
 - Previously led BeyondHack editions (multiple hackathon iterations)
 
 **Internships & Research Projects**
@@ -27,7 +27,7 @@ Computational AI researcher obsessed with **astrophysics**, **ML infrastructure*
 - Multi-agent LangGraph business research assistant
 - Multiple publication-ready research projects across ML, astrophysics, and systems
 
-## 🏆 Awards & Recognition
+##  Awards & Recognition
 
 **15+ international hackathon wins** | **Multiple research wins** | **Publication pipeline active**
 
@@ -49,13 +49,13 @@ Computational AI researcher obsessed with **astrophysics**, **ML infrastructure*
 **Edu-tech:** HTML/CSS/React for interactive study materials
 
 
-## 🌍 Ecosystem
+##  Ecosystem
 
 Pakistan's tech scene | AI/ML research | Open-source | Hackathon culture | Computational astrophysics
 
 ---
 
-## 📬 Fastest Way to Reach Me
+## Fastest Way to Reach Me
 
 **Email** (fastest response): bushrahz.giki@gmail.com  
 **Discord**: hohoorbitin  
