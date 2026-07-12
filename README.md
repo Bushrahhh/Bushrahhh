@@ -9,14 +9,13 @@ Computational AI researcher obsessed with **astrophysics**, **ML infrastructure*
 - Internship Research @ OpenAI — advancing frontier LLM capabilities
 - Dark matter mass mapping via weak gravitational lensing (**DARKNET**, live on HuggingFace)
 - Neural Radiance Fields for exoplanet atmospheres using JWST data (**NeRFSpace**)
-- **UNMAPPED** — novel research with multiple international wins & publications pipeline
+- novel research with multiple international wins & publications pipeline
 - Active research across computational astrophysics, astro-ML, and AI infrastructure
 - Contributor to Meshery (CNCF) — cloud infrastructure visualization
 
 **Founding & Leadership**
 - Co-founder **Event Saga** (Founder Institute Silicon Valley FI '26)
-- Founder **Hack@GIKI** — Pakistan's first international hackathon hub
-- Creator **Hack-Nation Global AI Hackathon** — 5,500+ participants, 65+ countries
+-  **Hack@GIKI** — Pakistan's first international hackathon hub
 - Founder **Akhuwat Mentor** @ Akhuwat College, Kasur — FAST/NUST/GIKI test prep
 - Previously led BeyondHack editions (multiple hackathon iterations)
 
@@ -32,13 +31,11 @@ Computational AI researcher obsessed with **astrophysics**, **ML infrastructure*
 
 **15+ international hackathon wins** | **Multiple research wins** | **Publication pipeline active**
 
-**Signature Wins:**
+**Signature :**
 - NASA Space Apps Challenge
 - Microsoft Build Challenge
 - National Climate Change Activism Award
 - Multiple international research competitions & recognitions
-
-**Hackathons:** HackMIT | Hack the North | Hack the 6ix | NICAT AeroHack | Ikhtira '26 | BeyondHack (multiple editions)
 
 **Research Recognition:** Computational astrophysics | Astro-ML | AI infrastructure innovations
 
@@ -51,13 +48,6 @@ Computational AI researcher obsessed with **astrophysics**, **ML infrastructure*
 **Cloud & Infra:** Docker | CNCF ecosystem | Meshery  
 **Edu-tech:** HTML/CSS/React for interactive study materials
 
-## 📚 Education & Mentorship
-
-Creating ready-to-use study materials for Pakistani university entrance exams:
-- FAST entry test study guides
-- NUST NET logical reasoning sets
-- Practice test answer keys
-- Full curriculum resources in HTML & PDF
 
 ## 🌍 Ecosystem
 
@@ -73,11 +63,8 @@ Pakistan's tech scene | AI/ML research | Open-source | Hackathon culture | Compu
 
 ---
 
-**Currently:** Scaling research pipeline across multiple domains. OpenAI internship research in progress. Fellowships & cutting-edge research positions at AI + astrophysics intersection. Always hunting for collab opportunities.
+**Currently:** Scaling research pipeline across multiple domains. OpenAI internship research in progress. Fellowships & research positions at AI + astrophysics intersection. Always hunting for collab opportunities.
 
 **Open to:** High-impact research partnerships | Frontier ML research | Astrophysics collaborations | Startup ideas | Hackathon organizing | Mentorship  
-**Check out:** DARKNET | NeRFSpace | UNMAPPED | Event Saga | Hack-Nation
 
 ---
-
-*Won at NASA. Running hackathons spanning continents. Researching at OpenAI. Mapping dark matter with neural networks. Multiple wins across AI, astrophysics, and infrastructure. Always coding, always publishing.*
